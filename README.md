@@ -1,16 +1,5 @@
 # bloc_timer
+Timer app using bloc state management
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------
+![simulator_screenshot_B273B12A-FF8F-4A42-AEB6-BE5CFFC8B037](https://user-images.githubusercontent.com/86294468/201521493-03accf7a-8042-4811-9d4a-73cc0d162b8a.png)
